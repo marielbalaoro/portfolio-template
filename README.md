@@ -20,7 +20,7 @@
 You'll need [Git](https://git-scm.com) to be installed on your computer. 
 ```
 # Clone this repository
-$ git clone https://github.com/Yheldev/portfolio-template.git
+$ git clone https://github.com/marielbalaoro/portfolio-template
 ```
 
 ## Editing the Template 🔨
@@ -66,7 +66,7 @@ Each div with class `work__box` represents a project, replace the contents of th
         <a href="#" target="_blank" class="link__text">
             Visit Site <span>&rarr;</span>
         </a>
-        <a href="https://github.com/Yheldev/portfolio-template" title="View Source Code" target="_blank">
+        <a href="https://github.com/marielbalaoro/portfolio-template" title="View Source Code" target="_blank">
             <img src="./images/github.svg" class="work__code" alt="GitHub">
         </a>
         </div>
@@ -165,7 +165,7 @@ For changing the screenshot:
         <!-- Update the links to point to your accounts -->
         <ul class="footer__social-links">
             <li class="footer__social-link-item">
-                <a href="https://github.com/Yheldev/">
+                <a href="https://github.com/marielbalaoro/">
                     <img src="./images/github.svg" class="footer__social-image" alt="Github">
                 </a>
             </li>
